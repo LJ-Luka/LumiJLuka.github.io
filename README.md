@@ -1,10 +1,14 @@
+<p>
+<a href="https://lj-luka.github.io/LumiJLuka.github.io" target="_blank" rel="noopener noreferrer"> 🔗 View the project here!</a>
+👀
+## </p>
+
 Edited by Lumi Luka
 
 Forty by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-<a href="https://lj-luka.github.io/LumiJLuka.github.io" target="_blank"> Click To View Site</a>
 This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
 creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
 set up to smoothly transition to secondary landing pages (for which a separate page
