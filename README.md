@@ -1,5 +1,5 @@
 <p>
-<a href="https://lj-luka.github.io/LumiJLuka.github.io" target="_blank" rel="noopener noreferrer"> 🔗 View the project here!</a>
+<a href="https://lj-luka.github.io/LumiJLuka.github.io" target="_blank" rel="noopener noreferrer"> 🔗 View the site here!</a>
 👀
 </p>
 
