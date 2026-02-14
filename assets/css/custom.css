@@ -298,45 +298,59 @@
 /* ===== Contact Section ===== */
 #contact {
 	background: linear-gradient(135deg, var(--gradient-start) 0%, var(--gradient-end) 100%);
-	padding: 4rem 2rem;
+	padding: 5rem 2rem;
 }
 
 #contact .inner {
-	max-width: 800px;
+	max-width: 900px;
 	margin: 0 auto;
-	text-align: center;
+	text-align: left;
+}
+
+#contact .major {
+	margin-bottom: 1.5rem;
 }
 
 #contact .major h2 {
 	color: var(--text-light);
+	text-align: left;
+	margin-bottom: 0;
 }
 
 #contact p {
 	color: rgba(255, 255, 255, 0.9);
 	font-size: 1.1rem;
-	margin-bottom: 2rem;
+	line-height: 1.8;
+	margin-bottom: 2.5rem;
+	max-width: 600px;
 }
 
 #contact .actions {
-	justify-content: center;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1rem;
+	justify-content: flex-start;
+	margin-top: 2rem;
 }
 
 #contact .button.primary {
 	background: white;
 	color: var(--gradient-end);
 	border: none;
-	padding: 0.75rem 2rem;
+	padding: 0.85rem 2.5rem;
 	border-radius: 25px;
 	font-weight: 600;
+	margin: 0;
 }
 
 #contact .button:not(.primary) {
 	background: transparent;
 	border: 2px solid white;
 	color: white;
-	padding: 0.75rem 2rem;
+	padding: 0.85rem 2.5rem;
 	border-radius: 25px;
 	font-weight: 600;
+	margin: 0;
 }
 
 #contact .button:hover {
