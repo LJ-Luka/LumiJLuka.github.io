@@ -295,6 +295,10 @@
 	margin-bottom: 0;
 }
 
+.about-education p strong {
+	color: #1a1a2e;
+}
+
 /* ===== Contact Section ===== */
 #contact {
 	background: linear-gradient(135deg, var(--gradient-start) 0%, var(--gradient-end) 100%);
